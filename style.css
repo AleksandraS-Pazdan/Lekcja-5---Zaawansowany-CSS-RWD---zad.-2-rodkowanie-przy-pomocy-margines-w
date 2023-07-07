@@ -1,5 +1,5 @@
 .container {
-    width: 98%;
+    width: 90%;
     margin: 0 auto;
     height: 50vh;
     background-color: red;
@@ -10,9 +10,6 @@
     width: 33.33%;
     height: 100px;
     background-color: blue;
-    display: inline-block;
-    margin: 0;
-
 }
 
 
